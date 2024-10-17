@@ -1,0 +1,40 @@
+.p1 {
+    background-color: rgba(255,255,255,30);
+    font-size: 100%; 
+    font-family: calibri;
+    float: left;
+    margin: 0 1.5%;
+    width: 70%;
+}
+section {
+    float: right;
+}
+.sub{
+    position: left;
+}
+h1 {
+    color: black;
+    position: center;
+    border: 2px solid black;
+}
+p{
+    font-size: 75%;
+    color: black;
+    position: left;
+}
+home_page {
+    background-color: rgba(255,255,255,30);
+}
+section {
+    font-size: 110%;
+    font-family: calibri;
+    color: black;
+}
+.title {
+    font-size: 180%;
+    position: center;
+    float: center;
+    width: 60%;
+    padding: 5px 0 ;
+
+}
